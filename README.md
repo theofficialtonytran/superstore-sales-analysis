@@ -106,7 +106,7 @@ actionable business recommendations.
 All queries written in DuckDB via DBeaver. Key queries include:
 - Top-line KPI aggregation (total sales, profit, margin %)
 - Monthly trend analysis with seasonal pattern identification across 48 months
-- Year-over-year growth summary (2014–2017)
+- Year-over-year growth summary (2014-2017)
 - Regional performance comparison (sales, profit, margin % by region)
 - Sub-category margin ranking (identified Tables at -8.56% as worst performer)
 - Discount vs profit correlation by sub-category (confirmed discount-to-loss pipeline)
